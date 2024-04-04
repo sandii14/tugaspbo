@@ -14,3 +14,5 @@ public class Pintar {
         System.out.println("Panggil Y : "+panggil.y);
     }
 }
+
+/*Pertemuan 2 */

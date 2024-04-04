@@ -32,3 +32,5 @@ public class OptLogika {
         System.out.println("!false= " + (!false));
     }
 }
+
+/*Pertemuan 2 */

@@ -34,3 +34,5 @@ public class OperatorAritmatika {
         System.out.println(" i % j = " + (i%j));
     }
 }
+
+/*Pertemuan 2 */

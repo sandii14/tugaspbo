@@ -20,3 +20,5 @@ class sepeda {
     System.out.println("Kecepatan: " +kecepatan);
     }
 }
+
+/*Pertemuan 2 */

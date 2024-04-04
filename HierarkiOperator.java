@@ -18,3 +18,4 @@ public class HierarkiOperator {
     }
 }
 
+/*Pertemuan 2 */

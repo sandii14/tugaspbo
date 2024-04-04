@@ -15,3 +15,4 @@ class SepedaGunung extends sepeda {
         System.out.println("Tinggi Sadel: "+setSadel);
     }
 }
+/*Pertemuan 2 */

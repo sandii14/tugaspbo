@@ -17,3 +17,4 @@ public class SepedaGunungBeraksi {
         sepedaku.setSadel(20);
     }
 }
+/*Pertemuan 2 */

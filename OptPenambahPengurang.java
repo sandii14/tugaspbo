@@ -24,3 +24,5 @@ public class OptPenambahPengurang {
         System.out.println("Nilai B = " +b);
     }
 }
+
+/*Pertemuan 2 */
